@@ -2,7 +2,10 @@ body{
     scroll-behavior: smooth;
 }
 
-.carousel-item{
-    max-width: 25%;
-    height: auto;
+.carousel-art{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 25%;
+    margin-top: 5%;
 }
